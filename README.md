@@ -7,7 +7,6 @@
 * 🌏 Location: 🇨🇳 P.R.China
 * ✉️ Mail: [tonychee1989@gmail.com](mailto:tonychee1989@gmail.com)
 * 🌍 Website: [https://tonychyi.wetofu.top](https://tonychyi.wetofu.top)
-* 🔑 Keybase: [https://keybase.io/tonychee7000](https://keybase.io/tonychee7000) `PS: I don't care about zoom for privacy`
 * 🔑 GPG Public Key: `985CDB6C7C4554376B951F3BA51655DB2DAE14DD`
 * 🎵 Soundcloud: [https://soundcloud.com/tony-chyi](https://soundcloud.com/tony-chyi)
 
